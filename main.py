@@ -18,7 +18,7 @@ def buy_ice_cream():
     order = []
     total_cost = 0.0
 
-    # Allow user to select multiple flavors
+    # Allow user to ddselect multiple flavors
     while True:
         choice = int(input("Enter the number of the flavor you want to buy (or 0 to finish): "))
 
